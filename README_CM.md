@@ -2,6 +2,7 @@
  Repository location for our group project. 
 
 Andrew Vestal
+
 Cameron Medina
 
 Project Outline
