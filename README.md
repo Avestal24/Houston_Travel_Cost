@@ -1,7 +1,7 @@
 # Houston_Travel_Cost
  Repository location for our group project. 
 
-Andrew Vestal
+Andrew Vestal, Elly Atwood
 
 Project Outline
 Project Title:
