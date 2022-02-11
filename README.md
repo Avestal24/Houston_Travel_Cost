@@ -3,8 +3,8 @@
 
 Andrew Vestal, Elly Atwood, Cameron Medina
 
-#### Project Outline
-#### Project Title:
+## Project Outline
+#### Project Title: 'Travel Costs: Disparity and it's Causes'
 
 #### Summary:
 
