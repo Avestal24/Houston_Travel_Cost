@@ -1,7 +1,7 @@
 # Houston_Travel_Cost
  Repository location for our group project. 
 
-Andrew Vestal, Elly Atwood, Cameron Medina
+Andrew Vestal, Elly Atwood, Cameron Medina, Sophia Shuler
 
 ## Project Outline
 #### Project Title: 'Travel Costs: Disparity and it's Causes'
